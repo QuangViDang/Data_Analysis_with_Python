@@ -1,0 +1,6 @@
+Đây là đường link của bài tập tuần 8 gồm:
+	Làm bài tập 11_matplotlib/company-sale dùng thư viện matplotlib thuần.  Pandas-Github (Links to an external site.)
+
+	Và làm toàn bộ các bài tập mục 07_Visualization (Có thể dùng matplotlib thuần hoặc pandas visualization).
+
+URL: https://drive.google.com/drive/folders/1-eBxfwtruR99tNDwynZXyNypHzuaNR6Y?usp=share_link
